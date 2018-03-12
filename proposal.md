@@ -28,7 +28,7 @@ This proposal includes a quick scan, resulting in a report with recommendations.
 * Current project management/collaborative workflow applications
 * Skills that are present in the organization that could contribute to the translation process
 
-Proposal for translation process
+## Proposal for translation process
 * Outline of ideal translation process
 * Description of process and stakeholders
 * Overview of available systems and pricing
