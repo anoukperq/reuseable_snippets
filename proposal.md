@@ -1,4 +1,4 @@
-Many departments in organisations currently have the need for translation of several types of content. This need is now taken care of in a fragmented and ad hoc manner. There is often a need to take a central and knowledgeable approach to this complex issue.
+Many departments in organisations currently have the need for translation of several types of content. There is often a need to take a central and knowledgeable approach to this complex issue.
 
 The goals of implementing a professional translation process are:
 
