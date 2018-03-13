@@ -18,7 +18,7 @@ simply because translators dive into the matter more thoroughly than anyone else
 
 ## How to combine these two?
 The obvious answer: including translators in the authoring process will not only improve the quality of your translations, 
-but will also impact the quality of your source content. However, For this to work well,  the authoring process needs to be adjusted: to a more collaborative, iterative process that allows all contributors to give feedback on publishable, eventhough not finished versions. 
+but will also impact the quality of your source content. However, for this to work well,  the authoring process needs to be adjusted: to a more collaborative, iterative process that allows all contributors to give feedback on publishable, eventhough not finished versions. 
 
 But how to go about this? Often, collaboration is seen as a time-consuming, expensive addition to writing on your own. So how do you make sure collaboration does not lead to frustration and actually leads to faster publishing, more feedback from your users AND early involvement and empowerment of your translators?
 
