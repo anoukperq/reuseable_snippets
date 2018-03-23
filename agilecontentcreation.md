@@ -1,11 +1,10 @@
-# Goal of this article/talk
-This talk/article aims to explain how applying agile principles to content creation and translation will significantly reduce waste and lead to a better end result. 
-
 # How agile principles can help you create better multilingual content
 
+# Goal of this article
+This article aims to explain how applying agile principles to content creation and translation will significantly reduce waste and lead to a better end result. 
+
 ## The issue with translation
-Translation is usually organized in a waterfall process. 
-Induced by the current ecosystem with translation companies, content must first be ready and consolidated in order for a translator to start working. Letting translators work on content that is not quite done to most people, feels like 'a waste of time and costs, as the content will still change'. 
+Translation is usually organized in a waterfall process. Induced by the current ecosystem with translation companies, content must first be ready and consolidated in order for a translator to start working. Letting translators work on content that is not quite done to most people, feels like 'a waste of time and costs, as the content will still change'. 
 
 But then translating begins, and the trouble starts. There is no way up the waterfall, so the translators have to deal with the source content they get.
 Lots of ambiguous sentences, untranslatable idioms and sentences that become too long in the translated version are issues 
