@@ -1,25 +1,22 @@
-# Reduceren van verspilling en verbeteren van kwaliteit in contentcreatie en vertaalprocessen
+# Reduceren van verspilling en verbeteren van kwaliteit binnen vertaalprocessen
 
-Bij het creeren van meertalige content zit bij veel organisaties veel "waste" 
-die leidt tot een reductie van kwaliteit, verhoging van kosten en verlenging van doorlooptijden.  
+Herkent u een van onderstaande punten?
 
-De oorzaak van deze "waste" zit voor een groot gedeelte in de kern van het proces 
-waarmee creeren en vertalen van content al sinds het ontstaan van de boekdrukkunst is opgezet.
+* Vertalen is te duur
+* Vertalen is te traag
+* De kwaliteit is niet overtuigend
+* Het vertaalproces vraagt te veel overhead van onze organisatie en is daarom moeilijk schaalbaar
 
-Een aantal veel voorkomende problemen die we tegenkomen bij vertaalprojecten:
+Waarschijnlijk is er ook in uw organisatie veel 'waste' in het vertaalproces. De oorzaak van deze 'waste' zit vaak voor een groot gedeelte in de kern van het proces waarmee creeren en vertalen van content is opgezet. Een andere aanpak kan leiden tot een reductie van kwaliteit, verhoging van kosten en verlenging van doorlooptijden. Wij gebruiken hiervoor de principes uit Agile software development.
 
-* Het vertaalproces kan niet omgaan met verandering
-* Vertalers hebben weinig context en betrokkenheid op het product
-* Rework vindt plaats na de deadline in plaats van binnen het proces
-* Feedback van eindgebruikers kan niet (meer) geincorporeerd worden in het eindproduct
- 
-Om dit op te lossen bieden wij de volgende aanpak:
+Wij bieden de volgende aanpak:
 
-## inventarisatie huidige contentcreatie- en vertaalproces
-De waste van het huidige proces wordt in kaart gebracht, op het gebied van efficientie en effectiviteit. 
+## inventarisatie huidige contentcreatie- en vertaalproces (quick scan)
+Het huidige proces wordt in kaart gebracht, en we identificeren de belangrijkste punten waar verberteringen mogelijk op het gebied van efficientie en effectiviteit. Wij leggen daarbij de nadruk op meetbare criteria, zoals time to market, opbrengsten en kosten en kijken waar in het proces verborgen waarde zit die in de huidige processen niet wordt ingezet. Ook kijken we met een andere bril naar kwaliteit: wat zijn de kwaliteitscriteria die gelden voor de meertalige content, en hoe kunnen deze gemaximeerd worden. 
 
 ## verbetervoorstel met behulp van oplossingen op het snijvlak van technologie en proces
 Wij leveren een verbetervoorstel met als uitgangspunt de volgende agile principes:
+
 * allow, facilitate and embrace change
 * team empowerment
 * multidisciplinary teams 
@@ -27,3 +24,6 @@ Wij leveren een verbetervoorstel met als uitgangspunt de volgende agile principe
 * usability as quality standard: maximize the work not done
 
 Naar aanleiding van dit verbetervoorstel kunnen wij een implementatieplan opleveren en de uitvoering verzorgen.
+
+Graag komen we een keer langs om te zien of wij van waarde kunnen zijn! 
+
