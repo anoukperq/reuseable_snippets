@@ -7,7 +7,7 @@ Herkent u een van onderstaande punten?
 * De kwaliteit is niet overtuigend
 * Het vertaalproces vraagt te veel overhead van onze organisatie en is daarom moeilijk schaalbaar
 
-Waarschijnlijk is er ook in uw organisatie veel 'waste' in het vertaalproces. De oorzaak hiervan zit vaak voor een groot gedeelte in de kern van het proces waarmee creeren en vertalen van content is opgezet, die leidt tot reductie van kwaliteit, verhoging van kosten en verlenging van doorlooptijden.
+Waarschijnlijk is er ook in uw organisatie veel 'waste' in het vertaalproces. De oorzaak hiervan zit vaak voor een groot gedeelte in de kern van het proces waarmee creeren en vertalen van content is opgezet. Deze waste leidt niet alleen tot verhoging van kosten en verlenging van doorlooptijden, maar ook tot reductie van kwaliteit.
 
 Is het voor u tijd om de verspilling aan te pakken? Wij kunnen u helpen. 
 
@@ -19,7 +19,7 @@ Het huidige proces wordt in kaart gebracht, en we identificeren de belangrijkste
 ## Verbetervoorstel met behulp van oplossingen op het snijvlak van technologie en proces
 Wij leveren een verbetervoorstel met als uitgangspunt de volgende agile principes:
 
-* verandering als kern van het proces
+* verandering als kern van het proces ('embrace change')
 * team empowerment
 * multidisciplinaire teams 
 * snel publiceren 
