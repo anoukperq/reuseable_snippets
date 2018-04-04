@@ -1,4 +1,4 @@
-# Reduceren van verspilling en verbeteren van kwaliteit binnen vertaalprocessen
+# Reduceren van verspilling in vertaalprocessen
 
 Herkent u een van onderstaande punten?
 
