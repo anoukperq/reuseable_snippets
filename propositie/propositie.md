@@ -7,7 +7,9 @@ Herkent u een van onderstaande punten?
 * De kwaliteit is niet overtuigend
 * Het vertaalproces vraagt te veel overhead van onze organisatie en is daarom moeilijk schaalbaar
 
-Waarschijnlijk is er ook in uw organisatie veel 'waste' in het vertaalproces. De oorzaak hiervan zit vaak voor een groot gedeelte in de kern van het proces waarmee creeren en vertalen van content is opgezet. Deze waste leidt niet alleen tot verhoging van kosten en verlenging van doorlooptijden, maar ook tot reductie van kwaliteit.
+Waarschijnlijk is er ook in uw organisatie veel 'waste' in het vertaalproces. Deze waste leidt niet alleen tot verhoging van kosten en verlenging van doorlooptijden, maar ook tot reductie van kwaliteit.
+
+Onze expertise ligt in het toepassen van de agile principes uit de softwareontwikkeling op het creeren en vertalen van content. Hiermee 
 
 Is het voor u tijd om de verspilling aan te pakken? Wij kunnen u helpen. 
 
