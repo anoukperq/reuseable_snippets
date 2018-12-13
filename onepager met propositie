@@ -1,9 +1,31 @@
 
+Do you recognize this? [problem statement]
+
+Most companies are perfectly capable of publishing their content in one or two languages. 
+Time to market is acceptable, costs are within range and usually these are languages that someone in house can assess. 
+The trouble starts when internationalization is taking off and publishing is necessary in 3 languages or more. 
+All of the sudden, the process of multilingual publishing starts to hurt. This potentially seriously endangers the international expansion. 
+
+In most cases companies turn to a translation agency for help, leaving their internal processes for content creation and publishing as they are. 
+Usually, they find that not only have costs increased by a factor 2, a lot of effort is still required and the 
+time to market and quality is still not what would be ideal in order to reach the international challenges of the company. 
+
+Why is this happening? 
+
+The main issue is that standard translation processes are not allowing for change and - consequently - for failure. 
+And as, for most content, content creation and translation is still a human task - things will go wrong and need to be corrected. 
+Most translation processes break when this happens. 
+
+The natural tendency of people is to have more review and QA cycles in the process. 
+However, this slows down the time to market, is even more expensive and also not 100% effective
+
+
+
+
 
 Problem statement
 * Multilingual publishing starts to hurt when it has to scale. And then it's too late. 
 This can lead to a situation where having to publish in multiple languages can actually become a bottleneck in international expansion, in terms of speed, effort, quality and costs. 
-
 
 Causes to the problem
 * Processes do not allow for change or failure
@@ -19,7 +41,7 @@ Our solution to the problem
 * QA == being able to change content as it is used
 * Kort cyclisch werken met snelle user feedback
 * Automation of file handling 
-* Optimizing the whole: also take the content creation process into account
+* Optimizing the whole: also take the content creation process into account and reduce waste in the entire process
 
 Outcome:
 
