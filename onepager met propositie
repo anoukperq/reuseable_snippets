@@ -9,7 +9,7 @@ Causes to the problem
 * Processes do not allow for change or failure
 * File and version management is error prone
 * Traditional QA/review processes are too expensive, take too long and are not effective
-* Changes in source text are not easily 
+* Translation only takes place after source text has been reviewed multiple times because changes are too costly to implement in several languages
 * Source content is not stored in a structured way
 
 Our solution to the problem
