@@ -1,5 +1,8 @@
 
-Do you recognize this? [problem statement]
+# Implement a robust translation process and increase time to market, quality and cost reduction
+
+
+## Do you recognize this? [problem statement]
 
 Most companies are perfectly capable of publishing their content in one or two languages. 
 Time to market is acceptable, costs are within range and usually these are languages that someone in house can assess. 
@@ -12,7 +15,7 @@ time to market and quality is still not what would be ideal in order to reach th
 
 In many organizations the opportunity costs of a broken translation process are substantial.  
 
-What is the cause of all this? 
+## What is the cause of all this? 
 
 The main issue is that standard translation processes do not allow for change and - consequently - for failure. 
 And as, in most cases, content creation and translation is still a human task - things will go wrong and will need to be corrected. 
@@ -25,7 +28,7 @@ People's natural reactions to this are the following:
 This seriously impacts the quality of the source content. 
 * Panic when something goes wrong after all.
 
-What can we do for you? 
+## What can we do for you? 
 
 We will help you design and implement a robust translation process that does not break when changes need to made. 
 
@@ -37,14 +40,14 @@ In order to achieve this we can:
 * Build self-organizing translation teams that will allow you to cut the middle man and increase speed, quality and reduce costs.
 * Implement translation software that allows translators to boost their productivity
 
-What will this bring you? 
+## What will this bring you? 
 
 * A robust, automated translation process that allows for change and failure
 * A cost decrease for translation and overhead of potentially 50% 
 * Substantial improvement of time to market
 * Happier, empowered people and higher quality translations
 
-Who are we?
+### Who are we?
 
 We are "Subject to change", currently consisting of Ellen Cuijpers, Tessa Kempen and Anouk Perquin. 
 Together we have 20 years experience in the translation industry. 
