@@ -7,10 +7,10 @@
 Most companies are perfectly capable of publishing their content in one or two languages. 
 Time to market is acceptable, costs are within range and usually these are languages that someone in house can assess. 
 The trouble starts when internationalization is taking off and publishing is necessary in 3 languages or more. 
-All of the sudden, the process of multilingual publishing starts to hurt. This potentially seriously endangers the international expansion. 
+All of a sudden, the process of multilingual publishing starts to hurt. This potentially seriously endangers the international expansion. 
 
 In most cases companies turn to a translation agency for help, leaving their internal processes for content creation and publishing as they are. 
-Usually, they find that not only have costs increased by a factor 2, a lot of effort is still required and the 
+Usually, they find that not only costs have increased by a factor 2, a lot of effort is still required and the 
 time to market and quality is still not what would be ideal in order to reach the international challenges of the company. 
 
 In many organizations the opportunity costs of a broken translation process are substantial.  
@@ -19,7 +19,7 @@ In many organizations the opportunity costs of a broken translation process are 
 
 The main issue is that standard translation processes do not allow for change and - consequently - for failure. 
 And as, in most cases, content creation and translation is still a human task - things will go wrong and will need to be corrected. 
-Most publishing processes in multiple languages break when this happens. 
+Most publishing processes in multiple languages break when this happens. Not only do thinks go wrong, but things will improve along the way, triggering another correction round. 
 
 People's natural reactions to this are the following:
 
@@ -30,7 +30,7 @@ This seriously impacts the quality of the source content.
 
 ## What can we do for you? 
 
-We will help you design and implement a robust translation process that does not break when changes need to made. 
+We will help you design and implement a robust translation process that does not break when changes need to be made. 
 
 Our approach is built on working in short cycles and continuous flow, easily processing changes following user feedback, both to source and target languages.
 
