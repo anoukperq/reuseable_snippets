@@ -1,5 +1,5 @@
 
-# Implement a robust translation process and increase time to market, quality and cost reduction
+# Reduce waste in your translation process
 
 
 ## Do you recognize this? [problem statement]
