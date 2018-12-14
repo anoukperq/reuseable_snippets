@@ -1,8 +1,9 @@
 
 # Reduce waste in your translation process
 
+Do you feel your translation process should be optimized in order to meet the international business challenges? And are you not afraid to make some changes in the way you work? Meet us, translation consultantcy Subject to Change.
 
-## Do you recognize this? [problem statement]
+## Translation starts to hurt when it is time to scale up. 
 
 Most companies are perfectly capable of publishing their content in one or two languages. 
 Time to market is acceptable, costs are within range and usually these are languages that someone in house can assess. 
