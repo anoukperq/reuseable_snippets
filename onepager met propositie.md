@@ -52,39 +52,8 @@ In order to achieve this we can:
 ### Who are we?
 
 We are "Subject to change", currently consisting of Ellen Cuijpers, Tessa Kempen and Anouk Perquin. 
-Together we have 20 years experience in the translation industry. 
+Together we have 20 years experience in the translation industry, as innovation consultants and project managers, both in translation agencies and as freelancers. 
 
 Our mission is to close the gap between the possibilities that arise when applying agile methodologies and state of the art technology and the condition organizations are currently in when it comes to multilingual content creation. 
 
-
-
-
-
-
-
-Problem statement
-* Multilingual publishing starts to hurt when it has to scale. And then it's too late. 
-This can lead to a situation where having to publish in multiple languages can actually become a bottleneck in international expansion, in terms of speed, effort, quality and costs. 
-
-Causes to the problem
-* Processes do not allow for change or failure
-* File and version management is error prone
-* Traditional QA/review processes are too expensive, take too long and are not effective
-* Translation only takes place after source text has been reviewed multiple times because changes are too costly to implement in several languages
-* Source content is not stored in a structured way
-
-Our solution to the problem
-
-* Design processes with change at the core
-  How much as we would like human translation to be perfect, it never is.
-* QA == being able to change content as it is used
-* Kort cyclisch werken met snelle user feedback
-* Automation of file handling 
-* Optimizing the whole: also take the content creation process into account and reduce waste in the entire process
-
-Outcome:
-
-* 
-
- 
 
