@@ -1,26 +1,27 @@
 
 # Reduce waste in your translation process
 
-Do you feel your translation process should be optimized in order to meet the international business challenges? And are you not afraid to make some changes in the way you work? Meet us, translation consultantcy Subject to Change.
+Do you feel your translation process should be optimized in order to meet the international business challenges? And are you not afraid to make some changes in the way you work? Meet us, translation innovation consultants Subject to Change.
 
 ## Translation starts to hurt when it is time to scale up. 
 
 Most companies are perfectly capable of publishing their content in one or two languages. 
 Time to market is acceptable, costs are within range and usually these are languages that someone in house can assess. 
-The trouble starts when internationalization is taking off and publishing is necessary in 3 languages or more. 
-All of the sudden, the process of multilingual publishing starts to hurt. This potentially seriously endangers the international expansion. 
+The trouble starts when internationalization is taking off and publishing is necessary in 3 or more languages. 
+All of a sudden, multilingual publishing starts to hurt. So much that it will seriously endanger the results of international expansion.
 
 In most cases companies turn to a translation agency for help, leaving their internal processes for content creation and publishing as they are. 
-Usually, they find that not only have costs increased by a factor 2, a lot of effort is still required and the 
-time to market and quality is still not what would be ideal in order to reach the international challenges of the company. 
 
-In many organizations the opportunity costs of a broken translation process are substantial.  
+Usually, they find that not only have costs increased by a factor 2, a lot of effort is still required and the 
+time to market and quality is still not what is needed in order to reach the international challenges of the company. 
+
+In most organizations the costs of a broken translation process are substantial. And even more, the opportunities if the process is not broken are countless.
 
 ## What is the cause of all this? 
 
 The main issue is that standard translation processes do not allow for change and - consequently - for failure. 
-And as, in most cases, content creation and translation is still a human task - things will go wrong and will need to be corrected. 
-Most publishing processes in multiple languages break when this happens. 
+As these days, quality is defined as the ability to quickly respond to user feedback, change must be at the core of your process. Moreover, as content creation and translation is still a human task, mistakes are made and need to be corrected. 
+However, most publishing processes in multiple languages break when this happens. 
 
 People's natural reactions to this are the following:
 
@@ -31,9 +32,9 @@ This seriously impacts the quality of the source content.
 
 ## What can we do for you? 
 
-We will help you design and implement a robust translation process that does not break when changes need to made. 
+We will help you design and implement a translation process that will reduce error-prone manual labor and does not break when changes need to made.
 
-Our approach is built on working in short cycles and continuous flow, easily processing changes following user feedback, both to source and target languages.
+Our approach is built on working in short cycles and continuous flow and easily processing changes following user feedback, both to source and target languages.
 
 In order to achieve this we can:
 * Automate all file handling by selecting and implementing a translation workflow platform
@@ -53,7 +54,7 @@ In order to achieve this we can:
 We are "Subject to change", currently consisting of Ellen Cuijpers, Tessa Kempen and Anouk Perquin. 
 Together we have 20 years experience in the translation industry. 
 
-Our mission is to close the gap between the situation most companies are in and what is all possible when agile methodologies and the latest technologies are applied to translation processes. 
+Our mission is to close the gap between the possibilities that arise when applying agile methodologies and state of the art technology and the condition organizations are currently in when it comes to multilingual content creation. 
 
 
 
