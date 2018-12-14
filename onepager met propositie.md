@@ -17,7 +17,7 @@ time to market and quality is still not what is needed in order to reach the int
 
 In most organizations the costs of a broken translation process are substantial. And even more, the opportunities if the process is not broken are countless.
 
-## What is the cause of all this? 
+## Why is this happening? 
 
 The main issue is that standard translation processes do not allow for change and - consequently - for failure. 
 As these days, quality is defined as the ability to quickly respond to user feedback, change must be at the core of your process. Moreover, as content creation and translation is still a human task, mistakes are made and need to be corrected. 
