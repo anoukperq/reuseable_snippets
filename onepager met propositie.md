@@ -1,7 +1,7 @@
 
 # Reduce waste in your translation process
 
-Do you feel your translation process should be optimized in order to meet the international business challenges? And are you ready to make some changes in the way you work? Translation innovation consultant Anouk Perquin & Co can show you how to take an other approach to the multilingual content creation process which addresses the real bottlenecks when it comes to translation.
+Do you feel your translation process should be optimized in order to meet the international business challenges? And are you ready to make some changes in the way you work? Translation innovation consultants Anouk Perquin and her colleagues can show you how to take an other approach to the multilingual content creation process which addresses the real bottlenecks when it comes to translation.
 
 ## Translation starts to hurt when it is time to scale up
 
