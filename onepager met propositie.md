@@ -38,7 +38,7 @@ In order to achieve this we can:
 * Automate all file handling by selecting and implementing a translation workflow platform;
 * Eliminate waste by optimizing the entire workflow, taking content creation into account; 
 * Build self-organizing translation teams that will allow you to cut the middle man and increase speed, quality and reduce costs;
-* Implement translation software that allows translators to boost their productivity.
+* Implement translation software that allows translators to boost their productivity. This leads to a dramatic drop in speed and - if you hire them yourself, cost reduction. 
 
 ## What will this bring you? 
 
