@@ -1,23 +1,22 @@
 Outline:
 
 
-Introductie: Wat kan de insteek allemaal zijn:
+## Introductie: 
 * Vertalen is ook uw core business, net als content creatie EN/OF:
 * Meertaligheid kan meer waarde toevoegen, als het proces goedkoper, sneller en meer toegespitst op de user is => en dat kan als je het insourced
 
-Waarom zou je willen insourcen:
+## Hierom zou je willen insourcen:
 * omdat het veel goedkoper is
 * omdat direct managen en faciliteren van de vertalers een enorm verschil in kwaliteit en snelheid bewerkstelligt
 * omdat je alleen dan je vertaalproces kunt verbeteren en daar ook zelf beter van worden
 * omdat je alleen dan de nieuwste technologische ontwikkelingen op het gebied van AI kunt gebruiken om versnelling en besparing te bewerkstelligen
 * omdat je alleen dan het gehele proces kunt optimaliseren en dus echt winst kunt behalen
 
-Waarom vinden mensen dit eng:
+## Waarom wil je niet insourcen:
 * omdat vertalen een te grote ad hoc factor heeft, pas laat in het proces rekening mee wordt gehouden en dus veel pieken en dalen kent, die moeilijk zelf te managen zijn
 * omdat het onduidelijk is hoe je de kwaliteit van de vertalingen moet assessen
 * omdat het managen van veel talen voor veel mensen te veel werk lijkt.
 * omdat het prettig is iemand anders problemen te laten oplossen die veel handwerk vergen
-
 
 ## Een nieuw concept
 Wij maken het makkelijk: u mag kiezen en op elk moment veranderen (stukje jatten uit offerte plek)
@@ -49,7 +48,7 @@ Zij zorgen ervoor dat:
 * er flow komt in de vertaalbehoefte, gebruik makend van lean technieken, waardoor eigen vertaalteams een optie worden: optimize the whole, focus op proces waardoor _waste_ voortdurend wordt geelimineerd.
 * een proces staat waarin voortdurende verbetering centraal staat
 
-Onze consultants kunnen ingezet worden met elke vertaalpartner en elke vertaalmanagementsoftware. Als deze nog niet geselecteerd zijn kan gebruik gemaakt worden van onze preferred vertaalpartner en softwareleverancier. 
+Onze consultants kunnen ingezet worden met elke vertaalpartner en elke vertaalmanagementsoftware. Als deze nog niet geselecteerd zijn kan gebruik gemaakt worden van onze preferred vertaalpartner en softwareleveranciers. 
 
 ## Wat is onze aanpak? 
 
