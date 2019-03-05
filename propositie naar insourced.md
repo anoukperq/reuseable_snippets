@@ -5,10 +5,12 @@ Introductie: Wat kan de insteek allemaal zijn:
 * Vertalen is ook uw core business, net als content creatie EN/OF:
 * Meertaligheid kan meer waarde toevoegen, als het proces goedkoper, sneller en meer toegespitst op de user is => en dat kan als je het insourced
 
-Waarom kan dit alleen als je insourced:
-* omdat je alleen dan het gehele proces kunt optimaliseren 
-* omdat je alleen dan de verbeteringen in je proces kunt monetizen
-* omdat je alleen dan de nieuwste technologische ontwikkelingen kunt gebruiken om versnelling en besparing te bewerkstelligen
+Waarom zou je willen insourcen:
+* omdat het veel goedkoper is
+* omdat direct managen en faciliteren van de vertalers een enorm verschil in kwaliteit en snelheid bewerkstelligt
+* omdat je alleen dan je vertaalproces kunt verbeteren en daar ook zelf beter van worden
+* omdat je alleen dan de nieuwste technologische ontwikkelingen op het gebied van AI kunt gebruiken om versnelling en besparing te bewerkstelligen
+* omdat je alleen dan het gehele proces kunt optimaliseren en dus echt winst kunt behalen
 
 Waarom vinden mensen dit eng:
 * omdat vertalen een te grote ad hoc factor heeft, pas laat in het proces rekening mee wordt gehouden en dus veel pieken en dalen kent, die moeilijk zelf te managen zijn
@@ -16,20 +18,37 @@ Waarom vinden mensen dit eng:
 * omdat het managen van veel talen voor veel mensen te veel werk lijkt.
 * omdat het prettig is iemand anders problemen te laten oplossen die veel handwerk vergen
 
-Dit kunnen wij oplossen
 
-* zorgen dat je zelf kunt bepalen voor welke talen je zelf vertalers aanstuurt en voor welke talen je een bureau inschakelt, 
-met identieke processen.
-* zorgen dat er een continuous flow komt in de vertaalbehoefte, gebruik makend van lean technieken: 
-optimize the whole, focus op proces waardoor _waste_ voortdurend wordt geelimineerd. 
-* zorgen dat er zelf organiserende vertaalteams inclusief quality control komen 
-* zorgen dat we werken naar een situatie waarin veranderingen in je meertalige content at no cost plaatsvinden
-* zorgen dat file handling verleden tijd is
-* zorgen dat vertalers met state of the art tooling werken en hun productiviteitsverhoging direct te voelen is in je portemonnee
+## Een nieuw concept
+Wij maken het makkelijk: u mag kiezen en op elk moment veranderen (stukje jatten uit offerte plek)
 
-Oftewel: zorgen dat je een schaalbaar proces krijgt. 
+* Classic version
+- betalen per woord
+- geen kosten aan software
+- project management buiten de deur 
 
-Wat is onze aanpak? 
+* Insourced version
+- zelf aansturen vertalers
+- mogelijkheid tot per uur betalen vertalers
+- kosten voor platform en vertaalomgeving
+
+* Blended version
+- een deel van de talen zelf aansturen, een deel bij een bureau
+- kan dienen als instapmodel van volledig insourcen
+- op elk moment mogelijk om talen in eigen beheer te nemen of juist weer te outsourcen
+
+## Consultancy: schaalbare processen
+Voor het inrichten van het insourced en blended model is het van groot belang dat de processen schaalbaar zijn. Om dit te bereiken leveren wij speciale vertaalinnovatie consultants. 
+
+Zij zorgen ervoor dat: 
+* dat alle file handling geautomatiseerd wordt
+* er zelf-organiserende vertaalteams inclusief quality control komen 
+* veranderingen in content tegen zeer lage kosten kunnen plaatsvinden: altijd mogelijkheid tot verhogen kwaliteit
+* dat vertalers met state of the art tooling werken en hun productiviteitsverhoging direct te voelen is in je portemonnee
+* er flow komt in de vertaalbehoefte, gebruik makend van lean technieken, waardoor eigen vertaalteams een optie worden: optimize the whole, focus op proces waardoor _waste_ voortdurend wordt geelimineerd.
+* een proces staat waarin voortdurende verbetering centraal staat
+
+## Wat is onze aanpak? 
 
 * Quick scan: Problem statement, bepalen van visie op multilingual content, aantal verschillende processen,
 hoeveelheid te vertalen content in hoeveel talen, nu en in de toekomst, eerste assesment van current condition, potentiele ROI
@@ -38,7 +57,7 @@ hoeveelheid te vertalen content in hoeveel talen, nu en in de toekomst, eerste a
 * Onboarden bestaande of nieuwe vertaalpartner voor talen die (nog) niet worden geinsourced. op nieuwe processen
 * Transfer naar verantwoordelijke persoon  
 
-Wat levert dit op?
+## Wat levert dit op?
 * kostenbesparing die kan oplopen tot 50%
 * minder effort bij het organiseren van meertalige content
 * versnelling van time to market en eenvoudig inspelen op wensen van de internationale markten
