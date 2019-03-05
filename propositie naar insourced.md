@@ -38,9 +38,10 @@ Wij maken het makkelijk: u mag kiezen en op elk moment veranderen (stukje jatten
 - op elk moment mogelijk om talen in eigen beheer te nemen of juist weer te outsourcen
 
 ## Consultancy: schaalbare processen
-Voor het inrichten van het insourced en blended model is het van groot belang dat de processen schaalbaar zijn. Om dit te bereiken leveren wij speciale vertaalinnovatie consultants. 
+Voor het inrichten van het insourced en blended model is het van groot belang dat de processen schaalbaar zijn, om te zorgen dat dit altijd in huis kan worden uitgevoerd. Om dit te bereiken leveren wij speciale vertaalinnovatie consultants die werken vanuit de lean management filosofie: creeren van flow en elimineren van _waste_. 
 
 Zij zorgen ervoor dat: 
+
 * dat alle file handling geautomatiseerd wordt
 * er zelf-organiserende vertaalteams inclusief quality control komen 
 * veranderingen in content tegen zeer lage kosten kunnen plaatsvinden: altijd mogelijkheid tot verhogen kwaliteit
@@ -51,7 +52,7 @@ Zij zorgen ervoor dat:
 ## Wat is onze aanpak? 
 
 * Quick scan: Problem statement, bepalen van visie op multilingual content, aantal verschillende processen,
-hoeveelheid te vertalen content in hoeveel talen, nu en in de toekomst, eerste assesment van current condition, potentiele ROI
+hoeveelheid te vertalen content in hoeveel talen, nu en in de toekomst, eerste assesment van current condition, potentiele ROI, insourced, outsourced of blended 
 * Tijdelijk overnemen of ondersteunen vertaalprojecten en implementatie en optimalisatie/automatisering lean translation processen en continuous improvement
 * Implementatie maatwerksoftware voor specifieke problemen
 * Onboarden bestaande of nieuwe vertaalpartner voor talen die (nog) niet worden geinsourced. op nieuwe processen
@@ -59,6 +60,6 @@ hoeveelheid te vertalen content in hoeveel talen, nu en in de toekomst, eerste a
 
 ## Wat levert dit op?
 * kostenbesparing die kan oplopen tot 50%
-* minder effort bij het organiseren van meertalige content
+* minder effort bij het organiseren van meertalige content - in elk model
 * versnelling van time to market en eenvoudig inspelen op wensen van de internationale markten
 * makkelijk opschalen voor nieuwe talen of grotere hoeveelheden content
