@@ -2,8 +2,9 @@ Outline:
 
 
 ## Introductie: 
-* Vertalen is ook uw core business, net als content creatie EN/OF:
-* Meertaligheid kan meer waarde toevoegen, als het proces goedkoper, sneller en meer toegespitst op de user is => en dat kan als je het insourced
+* Voor veel bedrijven is vertalen een afterthought, een kostenpost. Maar vertalen is uw core business, net als content creatie. (dit nog verder uitwerken)
+* Meertaligheid kan meer waarde toevoegen, een hogere ROI hebben als het proces van een hogere kwaliteit is: sneller en meer toegespitst op de user is, tegen optimale kosten. 
+* => en dat kan alleen als je het insourcet
 
 ## Hierom zou je willen insourcen:
 * omdat het veel goedkoper is
@@ -12,7 +13,7 @@ Outline:
 * omdat je alleen dan de nieuwste technologische ontwikkelingen op het gebied van AI kunt gebruiken om versnelling en besparing te bewerkstelligen
 * omdat je alleen dan het gehele proces kunt optimaliseren en dus echt winst kunt behalen
 
-## Waarom wil je niet insourcen:
+## Hierom wil je misschien niet insourcen:
 * omdat vertalen een te grote ad hoc factor heeft, pas laat in het proces rekening mee wordt gehouden en dus veel pieken en dalen kent, die moeilijk zelf te managen zijn
 * omdat het onduidelijk is hoe je de kwaliteit van de vertalingen moet assessen
 * omdat het managen van veel talen voor veel mensen te veel werk lijkt.
