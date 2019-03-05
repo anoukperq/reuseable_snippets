@@ -49,13 +49,14 @@ Zij zorgen ervoor dat:
 * er flow komt in de vertaalbehoefte, gebruik makend van lean technieken, waardoor eigen vertaalteams een optie worden: optimize the whole, focus op proces waardoor _waste_ voortdurend wordt geelimineerd.
 * een proces staat waarin voortdurende verbetering centraal staat
 
+Onze consultants kunnen ingezet worden met elke vertaalpartner en elke vertaalmanagementsoftware. Als deze nog niet geselecteerd zijn kan gebruik gemaakt worden van onze preferred vertaalpartner en softwareleverancier. 
+
 ## Wat is onze aanpak? 
 
 * Quick scan: Problem statement, bepalen van visie op multilingual content, aantal verschillende processen,
 hoeveelheid te vertalen content in hoeveel talen, nu en in de toekomst, eerste assesment van current condition, potentiele ROI, insourced, outsourced of blended 
 * Tijdelijk overnemen of ondersteunen vertaalprojecten en implementatie en optimalisatie/automatisering lean translation processen en continuous improvement
 * Implementatie maatwerksoftware voor specifieke problemen
-* Onboarden bestaande of nieuwe vertaalpartner voor talen die (nog) niet worden geinsourced. op nieuwe processen
 * Transfer naar verantwoordelijke persoon  
 
 ## Wat levert dit op?
