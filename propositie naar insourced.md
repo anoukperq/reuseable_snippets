@@ -1,9 +1,9 @@
-Outline:
+Transvision: een nieuwe kijk op vertalen. Voor nu en in de toekomst.
 
 
 ## Introductie: 
 * Voor veel bedrijven is vertalen een afterthought, een kostenpost. Maar vertalen is uw core business, net als content creatie. (dit nog verder uitwerken)
-* Meertaligheid kan meer waarde toevoegen, een hogere ROI hebben als het proces van een hogere kwaliteit is: sneller en meer toegespitst op de user is, tegen optimale kosten. 
+* Meertaligheid kan meer waarde toevoegen, een hogere ROI hebben als het proces van een hogere kwaliteit is: sneller en meer toegespitst op de user, tegen optimale kosten. 
 * => en dat kan alleen als je het insourcet
 
 ## Hierom zou je willen insourcen:
@@ -64,3 +64,10 @@ hoeveelheid te vertalen content in hoeveel talen, nu en in de toekomst, eerste a
 * minder effort bij het organiseren van meertalige content - in elk model
 * versnelling van time to market en eenvoudig inspelen op wensen van de internationale markten
 * makkelijk opschalen voor nieuwe talen of grotere hoeveelheden content
+
+Neem contact met ons op om eens te praten over wat voor u het juiste model zou kunnen zijn, nu en in de toekomst. 
+
+Contactpersoon: 
+Anouk Perquin 
+anouk.perquin@transvision.nl
+06-55 10 87 89
