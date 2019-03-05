@@ -38,4 +38,8 @@ hoeveelheid te vertalen content in hoeveel talen, nu en in de toekomst, eerste a
 * Onboarden bestaande of nieuwe vertaalpartner voor talen die (nog) niet worden geinsourced. op nieuwe processen
 * Transfer naar verantwoordelijke persoon  
 
-
+Wat levert dit op?
+* kostenbesparing die kan oplopen tot 50%
+* minder effort bij het organiseren van meertalige content
+* versnelling van time to market en eenvoudig inspelen op wensen van de internationale markten
+* makkelijk opschalen voor nieuwe talen of grotere hoeveelheden content
