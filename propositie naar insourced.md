@@ -33,7 +33,7 @@ Wat is onze aanpak?
 
 * Quick scan: Problem statement, bepalen van visie op multilingual content, aantal verschillende processen,
 hoeveelheid te vertalen content in hoeveel talen, nu en in de toekomst, eerste assesment van current condition, potentiele ROI
-* Tijdelijk overnemen of ondersteunen vertaalprojecten en implementatie en optimalisatie/automatisering lean translation processen
+* Tijdelijk overnemen of ondersteunen vertaalprojecten en implementatie en optimalisatie/automatisering lean translation processen en continuous improvement
 * Implementatie maatwerksoftware voor specifieke problemen
 * Onboarden bestaande of nieuwe vertaalpartner voor talen die (nog) niet worden geinsourced. op nieuwe processen
 * Transfer naar verantwoordelijke persoon  
